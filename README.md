@@ -18,6 +18,8 @@ Playme is an open source indie music and podcast streaming platform. created to 
 
 ![Home 2](https://media.discordapp.net/attachments/656235917845069854/955882050563502110/home.png?width=803&height=452 "Home 2")
 
+![Home 2](https://media.discordapp.net/attachments/656235917845069854/955882049955299338/Player_cheio.png?width=803&height=452 "Home 2")
+
 ### Primary contributors 👨‍🦲
 
 #### [João Victor](https://github.com/JoaoVictor6 "João Victor")
